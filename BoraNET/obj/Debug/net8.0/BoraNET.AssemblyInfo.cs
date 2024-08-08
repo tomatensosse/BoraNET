@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoraNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62c437645e36763cdb36f112a0e545ef43956e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+620d0e7f6cf1dcae75d33b40e7bee2a0a6ba3bd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoraNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoraNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

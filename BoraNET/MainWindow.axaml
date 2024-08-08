@@ -4,6 +4,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="BoraNET.MainWindow"
+        Loaded="Control_OnLoaded"
         Title="BoraNET">
-    Welcome to Avalonia!
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Content="I am Button!"
+                Click="Button_OnClick"/>
+        <TextBlock Grid.Row="1"
+                   x:Name="TextBlock"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Text="I am the super text"/>
+    </Grid>
 </Window>
