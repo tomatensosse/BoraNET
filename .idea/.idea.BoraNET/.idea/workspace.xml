@@ -8,21 +8,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d81631-6304-4e02-ad40-3c515c277b55" name="Changes" comment="Setup done!&#10;&#10;Set up Avalonia environment and .NET&#10;Project now consists of a simple button that counts up">
-      <change beforePath="$PROJECT_DIR$/BoraNET/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/MainWindow.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoraNET/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/MainWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BoraNET/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BoraNET/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/bin/Debug/net8.0/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/bin/Debug/net8.0/BoraNET.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/bin/Debug/net8.0/BoraNET.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/bin/Debug/net8.0/BoraNET.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/BoraNET.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/BoraNET.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/BoraNET.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/BoraNET.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/BoraNET.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/BoraNET.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/BoraNET.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/Avalonia/resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/BoraNET.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/ref/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/ref/BoraNET.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/refint/Avalonia/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/refint/Avalonia/BoraNET.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/refint/BoraNET.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/Debug/net8.0/refint/BoraNET.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoraNET/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BoraNET/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +67,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.BoraNET.executor": "Debug",
+    ".NET Project.BoraNET.executor": "Run",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "beta",
@@ -113,7 +119,7 @@
       <workItem from="1723150634773" duration="4890000" />
       <workItem from="1723155584884" duration="77000" />
       <workItem from="1723155664248" duration="80000" />
-      <workItem from="1723155750595" duration="4546000" />
+      <workItem from="1723155750595" duration="7278000" />
     </task>
     <task id="LOCAL-00001" summary="Setup done!&#10;&#10;Set up Avalonia environment and .NET&#10;Project now consists of a simple button that counts up">
       <option name="closed" value="true" />
