@@ -1,0 +1,5 @@
+/Users/emreborakaynar/Documents/Visual Studio Code/BoraNET/BoraNET/bin/Release/net8.0/win-x64/publish/BoraNET.pdb
+/Users/emreborakaynar/Documents/Visual Studio Code/BoraNET/BoraNET/bin/Release/net8.0/win-x64/publish/av_libglesv2.dll
+/Users/emreborakaynar/Documents/Visual Studio Code/BoraNET/BoraNET/bin/Release/net8.0/win-x64/publish/libHarfBuzzSharp.dll
+/Users/emreborakaynar/Documents/Visual Studio Code/BoraNET/BoraNET/bin/Release/net8.0/win-x64/publish/libSkiaSharp.dll
+/Users/emreborakaynar/Documents/Visual Studio Code/BoraNET/BoraNET/bin/Release/net8.0/win-x64/publish/BoraNET.exe

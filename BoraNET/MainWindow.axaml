@@ -2,25 +2,20 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="550"
         x:Class="BoraNET.MainWindow"
         Loaded="Control_OnLoaded"
         Title="BoraNET">
-    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-        </Grid.RowDefinitions>
+        <StackPanel Margin="10">
+                <TextBlock Text="Receiver IP:" />
+                <TextBox x:Name="IpTextBox" />
 
-        <Button Grid.Row="0"
-                HorizontalAlignment="Center"
-                VerticalAlignment="Center"
-                Content="I am Button!"
-                Click="Button_OnClick"/>
-        <TextBlock Grid.Row="1"
-                   x:Name="TextBlock"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   Text="I am the super text"/>
-    </Grid>
+                <TextBlock Text="Your Message:" Margin="0,10,0,0"/>
+                <TextBox x:Name="MessageTextBox" />
+
+                <Button x:Name="SendButton" Content="Send" Click="ButtonSend_OnClick" Margin="0,10,0,0" />
+
+                <TextBlock Text="Received Messages:" Margin="0,20,0,0"/>
+                <ListBox x:Name="MessagesListBox" />
+        </StackPanel>
 </Window>
